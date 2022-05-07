@@ -26,8 +26,8 @@ ARG TARGETPLATFORM
 
 LABEL maintainer="buildsociety" \
       org.opencontainers.image.created=$BUILD_DATE \
-      org.opencontainers.image.url="https://github.com/buildsociety/nebula" \
-      org.opencontainers.image.source="https://github.com/buildsociety/nebula" \
+      org.opencontainers.image.url="https://github.com/bailinx/nebula" \
+      org.opencontainers.image.source="https://github.com/bailinx/nebula" \
       org.opencontainers.image.version=$VERSION \
       org.opencontainers.image.revision=$VCS_REF \
       org.opencontainers.image.vendor="buildsociety" \
