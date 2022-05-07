@@ -24,7 +24,7 @@ ARG VCS_REF
 ARG VERSION
 ARG TARGETPLATFORM
 
-LABEL maintainer="buildsociety" \
+LABEL maintainer="bailinx" \
       org.opencontainers.image.created=$BUILD_DATE \
       org.opencontainers.image.url="https://github.com/bailinx/nebula" \
       org.opencontainers.image.source="https://github.com/bailinx/nebula" \
